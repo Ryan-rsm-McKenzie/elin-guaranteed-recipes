@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+  <title>Guaranteed Recipes from Disassembling</title>
+  <id>ryan.elinguaranteedrecipes</id>
+  <author>Ryan</author>
+  <builtin>false</builtin>
+  <loadPriority>100</loadPriority>
+  <version>0.23.50</version>
+  <tags>QoL</tags>
+  <description></description>
+</Meta>
